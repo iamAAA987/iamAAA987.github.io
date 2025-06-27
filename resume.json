@@ -1,9 +1,10 @@
 {
   "name": "高艺佳",
   "contact": {
-    "email": "your.email@example.com",
-    "phone": "",
-    "github": "https://github.com/your-username",
+    "email": "3452509981@qq.com",
+    "phone": "17317827697",
+    "sex": "男",
+    "github": "https://github.com/iamAAA987",
     "linkedin": "https://linkedin.com/in/your-profile"
   },
   "summary": "计算机科学专业学生，寻求后端/全栈开发实习机会。对使用AI系统解决复杂问题充满热情，具备快速学习能力和团队协作精神。",
@@ -30,7 +31,7 @@
       "description": "一个基于微服务架构的电子商务平台，实现了用户管理、商品浏览、购物车和订单处理等核心功能。",
       "tech_stack": "Spring Boot, Spring Cloud, MySQL, Redis, Vue.js",
       "links": [
-        { "name": "GitHub 仓库", "url": "https://github.com/your-username/project-one" },
+        { "name": "GitHub 仓库", "url": "https://github.com/iamAAA987/little_semester" },
         { "name": "在线演示", "url": "#" }
       ]
     },
@@ -39,7 +40,7 @@
       "description": "一个支持 Markdown 语法、响应式设计的个人博客系统，包含文章发布、分类、标签和评论功能。",
       "tech_stack": "Spring Boot, Thymeleaf, MySQL, Git",
       "links": [
-        { "name": "GitHub 仓库", "url": "https://github.com/your-username/project-two" }
+        { "name": "GitHub 仓库", "url": "https://github.com/iamAAA987/iamAAA987.github.io" }
       ]
     }
   ]
