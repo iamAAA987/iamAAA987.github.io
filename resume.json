@@ -1,49 +1,46 @@
 {
-  "name": "张三",
+  "name": "高艺佳",
   "contact": {
-    "email": "zhangsan@email.com",
-    "phone": "138-1234-5678",
-    "website": "https://zhangsan.github.io"
+    "email": "your.email@example.com",
+    "phone": "",
+    "github": "https://github.com/your-username",
+    "linkedin": "https://linkedin.com/in/your-profile"
   },
-  "summary": "一位充满激情的前端开发者，拥有3年以上的Web应用开发经验。擅长使用现代前端框架（如Vue.js和React）构建交互式、用户友好的界面。对代码质量有严格要求，并热衷于学习和探索新技术。",
-  "experience": [
-    {
-      "company": "ABC科技公司",
-      "position": "前端工程师",
-      "period": "2021年7月 - 至今",
-      "responsibilities": [
-        "负责公司旗舰产品“智能数据平台”的前端开发与维护，使用Vue.js和Element UI。",
-        "通过代码优化和组件复用，将页面加载性能提升了30%。",
-        "与后端团队紧密合作，共同设计和实施RESTful API。",
-        "引入自动化测试，将关键模块的测试覆盖率提高到90%。"
-      ]
-    },
-    {
-      "company": "XYZ初创公司",
-      "position": "软件开发实习生",
-      "period": "2020年6月 - 2020年9月",
-      "responsibilities": [
-        "协助开发公司内部管理系统，使用React和Ant Design。",
-        "修复了超过50个已知bug，提升了系统稳定性。",
-        "学习并参与了敏捷开发流程。"
-      ]
-    }
-  ],
+  "summary": "计算机科学专业学生，寻求后端/全栈开发实习机会。对使用AI系统解决复杂问题充满热情，具备快速学习能力和团队协作精神。",
+  "experience": [],
   "education": {
-    "school": "北京大学",
-    "degree": "计算机科学与技术 学士",
-    "period": "2017年9月 - 2021年6月"
+    "school": "上海海洋大学",
+    "degree": "计算机科学与技术, 学士学位",
+    "period": "2023年9月 - 2027年6月",
+    "details": [
+      "GPA: 3.8/4.0",
+      "相关课程: 数据结构, 算法导论, 操作系统, 计算机网络..."
+    ]
   },
   "skills": {
-    "frontend": ["HTML5", "CSS3", "JavaScript (ES6+)", "Vue.js", "React", "Webpack", "Vite"],
-    "backend": ["Node.js", "Express"],
-    "tools": ["Git", "Docker", "Jest", "Figma"]
+    "languages": ["Java", "Python", "C++", "SQL", "JavaScript"],
+    "backend": ["Spring Boot", "Spring Cloud", "MyBatis", "Docker", "Nginx", "Redis"],
+    "frontend": ["HTML", "CSS", "Vue.js", "React"],
+    "databases": ["MySQL", "PostgreSQL", "MongoDB"],
+    "tools": ["Git", "Maven", "IntelliJ IDEA", "VS Code"]
   },
   "projects": [
     {
-      "name": "个人作品集网站",
-      "description": "一个使用原生HTML/CSS/JS构建的静态网站，用于展示个人项目和技能。本项目就是你现在看到的网站。",
-      "link": "https://zhangsan.github.io"
+      "name": "在线商城系统",
+      "description": "一个基于微服务架构的电子商务平台，实现了用户管理、商品浏览、购物车和订单处理等核心功能。",
+      "tech_stack": "Spring Boot, Spring Cloud, MySQL, Redis, Vue.js",
+      "links": [
+        { "name": "GitHub 仓库", "url": "https://github.com/your-username/project-one" },
+        { "name": "在线演示", "url": "#" }
+      ]
+    },
+    {
+      "name": "个人博客平台",
+      "description": "一个支持 Markdown 语法、响应式设计的个人博客系统，包含文章发布、分类、标签和评论功能。",
+      "tech_stack": "Spring Boot, Thymeleaf, MySQL, Git",
+      "links": [
+        { "name": "GitHub 仓库", "url": "https://github.com/your-username/project-two" }
+      ]
     }
   ]
 } 
