@@ -160,9 +160,8 @@ footer {
 /* Chat Widget Styles */
 #chat-widget-container {
     position: fixed;
-    bottom: 30px;
-    right: 30px;
     z-index: 1000;
+    transition: opacity 0.5s;
 }
 
 #chat-bubble {
@@ -173,13 +172,15 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    cursor: pointer;
+    cursor: move;
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-    transition: transform 0.2s;
+    transition: transform 0.2s, opacity 0.3s;
+    opacity: 0.7;
 }
 
 #chat-bubble:hover {
     transform: scale(1.1);
+    opacity: 1;
 }
 
 #chat-bubble svg {
